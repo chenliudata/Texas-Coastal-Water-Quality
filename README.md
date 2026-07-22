@@ -40,9 +40,10 @@ Texas-Coastal-Water-Quality/
 ├── data/
 │   ├── raw/
 │   └── processed/
+├── figures/
 ├── notebooks/
 ├── src/
-├── figures/
+├── .gitignore
+├── LICENSE
 ├── README.md
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
